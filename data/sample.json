@@ -1,0 +1,20 @@
+{
+  "message": "This is a sample JSON file",
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com"
+    }
+  ],
+  "config": {
+    "appName": "Express API",
+    "version": "1.0.0",
+    "features": ["auth", "line-webhook", "database"]
+  }
+}
